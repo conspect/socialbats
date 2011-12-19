@@ -1,4 +1,4 @@
-![emabts](/embats/socialbats/blob/master/wiki_img/facebooklogo.png "embats")
+![emabts](/embats/socialbats/blob/master/wiki_img/facebooklogo.png?raw=true "embats")
 
 # Socialbats
 
@@ -25,3 +25,4 @@ Use the @font-face fonts like everyone else.
 
 Have a lot of fun!
 
+embats/socialbats/blob/master/wiki_img/embats.png?raw=true
