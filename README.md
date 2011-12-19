@@ -12,10 +12,12 @@ These icon-fonts are made to have page conform and neutral social-website and so
 
 ### They are tested @work, Applications using embats are:
 
+* http://projectforge.org (the application, not the website)
+* http://enercast.de (the application, not the website)
+
 ![The embats web interface icon fontset](/embats/socialbats/blob/master/wiki_img/embats.png?raw=true "embats classic")
 
-http://projectforge.org (the application, not the website)
-http://enercast.de (the application, not the website)
+
 
 ### Have fun
 
